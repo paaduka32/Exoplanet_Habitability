@@ -20,16 +20,16 @@ This project explores the factors influencing the habitability of exoplanets by 
 12. **Eccentricity & Habitability**: Higher orbital eccentricity negatively impacts planetary habitability by causing extreme temperature variations.  
 
 ## Project Structure
-📂 Exoplanet-Habitability
-│── 📂 static
-│ ├── background.png
-│ ├── script.js
-│ ├── styles.css
-│── 📄 README.md # Project documentation
-│── exoplanet_dataset.csv
-|── habitability.ipynb # Reference notebook for analysis
-│── data_processing.py # Data cleaning and preprocessing
-│── app.py
+📂 Exoplanet-Habitability  
+│── 📂 static  
+│ ├── background.png  
+│ ├── script.js  
+│ ├── styles.css  
+│── 📄 README.md # Project documentation  
+│── exoplanet_dataset.csv  
+|── habitability.ipynb # Reference notebook for analysis  
+│── data_processing.py # Data cleaning and preprocessing  
+│── app.py  
 
 ## Usage
 Run the following script to clean and preprocess the data:
@@ -40,4 +40,10 @@ To start the Dash app for visualization:
 ```bash
 python app/app.py
 ```
+
+## Findings
+1. Some hypotheses were strongly supported by the data, while others showed weak correlations or needed further refinement.
+2. Habitability appears to be significantly influenced by stellar flux, equilibrium temperature, and atmospheric retention.
+3. Orbital eccentricity plays a major role in causing extreme temperature variations, reducing habitability potential.
+4. A balance between orbital period, tidal effects, and atmospheric conditions is crucial for maintaining stable surface conditions.
 
