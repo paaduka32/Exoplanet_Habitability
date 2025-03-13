@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project explores the factors influencing the habitability of exoplanets by testing various hypotheses related to planetary properties, orbital mechanics, and stellar influences. The analysis uses observational data and statistical methods to evaluate key relationships affecting the potential for life on exoplanets.
+This project was developed as part of the "Stellar Analysis" event organized by IIT-BHU, focusing on evaluating the factors influencing exoplanet habitability. The analysis aimed to test key hypotheses related to planetary mass, radius, atmospheric retention, and stellar influences to determine their impact on habitability.
+
+Our findings were presented in a detailed study, and Vibhashree's analysis was recognized as the winning presentation in the competition. The project uses observational data, statistical modeling, and a Dash-based interactive dashboard to visualize results effectively.
 
 ## Hypotheses Tested
 
@@ -53,6 +55,6 @@ python app.py
 3. Experimental validation: Simulating exoplanetary conditions using climate models.
 
 ## Contributors
-Vibhashree 
 
-Manohara
+- **Vibhashree** – Led the scientific analysis, hypothesis testing, and all physics-related aspects of the project.  
+- **Manohara** – Developed and implemented the Dash-based interactive dashboard.  
