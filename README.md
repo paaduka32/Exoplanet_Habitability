@@ -34,7 +34,7 @@ This project explores the factors influencing the habitability of exoplanets by 
 ## Usage
 Run the following script to clean and preprocess the data:
    ```bash
-python scripts/data_processing.py
+python data_processing.py
 ```
 To start the Dash app for visualization:
 ```bash
