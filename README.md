@@ -47,3 +47,11 @@ python app/app.py
 3. Orbital eccentricity plays a major role in causing extreme temperature variations, reducing habitability potential.
 4. A balance between orbital period, tidal effects, and atmospheric conditions is crucial for maintaining stable surface conditions.
 
+## Future Work
+1. Refining models: Incorporating more sophisticated machine learning approaches.
+2. Expanding datasets: Using additional missions such as TESS or JWST for better parameter coverage.
+3. Experimental validation: Simulating exoplanetary conditions using climate models.
+
+## Contributors
+Vibhashree 
+Manohara
