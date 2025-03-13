@@ -27,7 +27,7 @@ This project explores the factors influencing the habitability of exoplanets by 
 │ ├── styles.css  
 │── 📄 README.md # Project documentation  
 │── exoplanet_dataset.csv  
-|── habitability.ipynb # Reference notebook for analysis  
+│── habitability.ipynb # Reference Notebook
 │── data_processing.py # Data cleaning and preprocessing  
 │── app.py  
 
