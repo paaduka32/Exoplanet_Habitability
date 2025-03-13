@@ -38,7 +38,7 @@ python data_processing.py
 ```
 To start the Dash app for visualization:
 ```bash
-python app/app.py
+python app.py
 ```
 
 ## Findings
