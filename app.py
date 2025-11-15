@@ -535,7 +535,7 @@ def generate_graph(step):
     return fig, dcc.Markdown(text, dangerously_allow_html=True)
 # =================================================== DASHBOARD STRUCTURE ===============================================================
 # Initialize Dash
-app = dash.Dash(__name__, external_stylesheets=["/assets/style.css", dbc.themes.BOOTSTRAP])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 # Layout
 app.layout = html.Div([
@@ -1631,4 +1631,4 @@ def update_conclusion(n):
     return generate_graph(step)
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run(debug=True)
