@@ -24,14 +24,15 @@ Our findings were presented in a detailed study, and Vibhashree's analysis was r
 ## Project Structure
 📂 Exoplanet-Habitability  
 │── 📂 assets
-│ ├── background.png  
-│ ├── script.js  
-│ ├── styles.css  
-│── 📄 README.md # Project documentation  
+│   ├── background.png  
+│   ├── script.js  
+│   └── styles.css  
+│── README.md        # Project documentation  
 │── exoplanet_dataset.csv  
-│── habitability.ipynb # Reference Notebook  
-│── data_processing.py # Data cleaning and preprocessing  
-│── app.py  
+│── habitability.ipynb  # Reference Notebook  
+│── data_processing.py  # Data cleaning and preprocessing  
+│── app.py
+
 
 ## Usage
 Install the required packages by running:
