@@ -23,7 +23,7 @@ Our findings were presented in a detailed study, and Vibhashree's analysis was r
 
 ## Project Structure
 📂 Exoplanet-Habitability  
-│── 📂 static  
+│── 📂 assets
 │ ├── background.png  
 │ ├── script.js  
 │ ├── styles.css  
@@ -34,6 +34,10 @@ Our findings were presented in a detailed study, and Vibhashree's analysis was r
 │── app.py  
 
 ## Usage
+Install the required packages by running:
+```bash
+pip3 install -r 'requirements.txt'
+```
 Run the following script to clean and preprocess the data:
    ```bash
 python data_processing.py
